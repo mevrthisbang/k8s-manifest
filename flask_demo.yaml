@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: flask-app
-        image: 851725245885.dkr.ecr.ap-southeast-1.amazonaws.com/jenkins-ci-demo:1
+        image: 851725245885.dkr.ecr.ap-southeast-1.amazonaws.com/jenkins-ci-demo:15
         imagePullPolicy: Always
         resources:
           requests:
