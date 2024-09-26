@@ -16,7 +16,7 @@ spec:
         app: flask-app
     spec:
       containers:
-      - image: 851725245885.dkr.ecr.ap-southeast-1.amazonaws.com/jenkins-ci-demo:19
+      - image: 851725245885.dkr.ecr.ap-southeast-1.amazonaws.com/jenkins-ci-demo:20
         name: flask-app
         resources: {}
 status: {}
